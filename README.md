@@ -21,7 +21,7 @@ HomeLab TUI brings the pieces of a self-hosted server together in one SSH-friend
 
 ![HomeLab TUI overview showing the built-in fictional demo data](docs/assets/demo.png)
 
-<p align="center"><em>Rendered from the built-in demo; all displayed data is fictional.</em></p>
+<p align="center"><em>Captured in Windows Terminal using the built-in demo; all displayed data is fictional.</em></p>
 
 | Explore | What you'll find |
 | --- | --- |
