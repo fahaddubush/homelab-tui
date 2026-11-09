@@ -1,0 +1,9 @@
+/homelab
+/coverage.out
+*.test
+.env
+.env.*
+!.env.example
+config.json
+*.log
+.DS_Store
