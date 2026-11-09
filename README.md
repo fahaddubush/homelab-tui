@@ -19,7 +19,7 @@
 
 HomeLab TUI brings the pieces of a self-hosted server together in one SSH-friendly terminal. Follow the health of a host, inspect containers, find logs, and run maintenance tasks without leaving your shell. Ten individually themed tabs add a little space to the experience; the dashboard remains usable with animation turned off.
 
-![HomeLab TUI overview showing the built-in fictional demo data](docs/assets/demo.png)
+![HomeLab TUI overview showing the built-in fictional demo data](docs/assets/terminal-showcase.png)
 
 <p align="center"><em>Captured in Windows Terminal using the built-in demo; all displayed data is fictional.</em></p>
 
